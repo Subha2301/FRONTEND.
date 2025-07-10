@@ -1,4 +1,62 @@
+/* body{
+    background-color:rgb(49, 57, 57);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+}
 
+.container{
+    width: 80%;
+    max-width: 650px;
+    margin: 0 auto;
+    background-color:rgb(33, 34, 34) ;
+    padding: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+h1{
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+h2{
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+#countdown{
+    display: flex;
+    justify-content: space-around;
+}
+#countdown div{
+    padding: 30px;
+    border-radius: 5px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+span{
+    font-size: xx-large;
+}
+.progress-container{
+  background-color: white;
+  height: 10px;
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+ 
+}
+
+#progress-bar{
+    background-color: rgb(255, 0, 0);
+    width:0%;
+    height: 100%;
+    transition: width 1s ease-in-out;
+    border-radius: 5px;
+} */
 
 body{
     background: linear-gradient(135deg,#3a2b71,#ad77b9);
